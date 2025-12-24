@@ -24,4 +24,13 @@ storage = {
   account_replication_type = "LRS"
      
     }
+
+    stg4 = {
+    name                     = "stg4"
+  location                 = "West Europe"
+  resource_group_name =  "rg1"
+  account_tier             = "Standard"
+  account_replication_type = "LRS"
+     
+    }
 }

@@ -18,7 +18,7 @@ storage = {
     }
     stg3 = {
     name                     = "stg3"
-  location                 = "West Europe"
+  location                 = "east us"
   resource_group_name =  "rg1"
   account_tier             = "Standard"
   account_replication_type = "LRS"
